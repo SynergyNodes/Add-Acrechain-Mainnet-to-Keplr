@@ -82,6 +82,7 @@ window.keplr.experimentalSuggestChain({
 ## 6) Click on ``Approve`` button on Keplr Wallet window.
 
 ![](https://www.synergynodes.com/images/acrechain-mainnet-keplr/Acrechain-Mainnet-Keplr-05-min.png width=100)
+<img src="https://www.synergynodes.com/images/acrechain-mainnet-keplr/Acrechain-Mainnet-Keplr-05-min.png" width="200">
 
 ## 7) Close Keplr Wallet and re-open it.
 
