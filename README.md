@@ -1,5 +1,7 @@
 # Adding Acrechain Mainnet (Arable Protocol) to Keplr wallet
 
+[![Adding Acrechain Mainnet (Arable Protocol) to Keplr wallet](https://www.synergynodes.com/youtube/Acrechain-Mainnet-Keplr-Youtube.jpg)](https://youtu.be/4w5zkVkFJ8Y)
+
 You can follow these steps in Google Chrome, Brave browser or any other browser which supports Keplr wallet extension. 
 
 ## 1) Open Keplr wallet, right click on it and click on ``Inspect``.
