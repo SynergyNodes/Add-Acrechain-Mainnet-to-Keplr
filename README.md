@@ -87,10 +87,10 @@ window.keplr.experimentalSuggestChain({
 
 ## 8) Click on the networks present at top of Keplr Wallet, scroll down, and select ``Acrechain Mainnet``.
 
-<img src="https://www.synergynodes.com/images/acrechain-mainnet-keplr/Acrechain-Mainnet-Keplr-06-min.png" width="350">
+<img src="https://www.synergynodes.com/images/acrechain-mainnet-keplr/Acrechain-Mainnet-Keplr-06-min6.png" width="350">
 
 ## 9) The wallet is ready and you can copy the address.
 
 NOTE: After adding Arable testnet to Keplr wallet, you can import any wallet using the backed up Mnemonic phrase.
 
-<img src="https://www.synergynodes.com/images/acrechain-mainnet-keplr/Acrechain-Mainnet-Keplr-07-min.png" width="350">
+<img src="https://www.synergynodes.com/images/acrechain-mainnet-keplr/Acrechain-Mainnet-Keplr-07-min6.png" width="350">
