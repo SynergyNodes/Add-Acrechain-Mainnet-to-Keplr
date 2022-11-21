@@ -6,7 +6,7 @@ You can follow these steps in Google Chrome, Brave browser or any other browser 
 
 This will open ``DevTools`` window.
 
-![](https://www.synergynodes.com/images/acrechain-mainnet-keplr/Acrechain-Mainnet-Keplr-01-min-01.png)
+![](https://www.synergynodes.com/images/acrechain-mainnet-keplr/Acrechain-Mainnet-Keplr-01-min.png)
 
 ## 2) On the ``DevTools`` window, click on ``Console`` tab.
 
