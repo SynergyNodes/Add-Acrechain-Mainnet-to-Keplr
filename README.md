@@ -93,4 +93,4 @@ window.keplr.experimentalSuggestChain({
 
 NOTE: After adding Arable testnet to Keplr wallet, you can import any wallet using the backed up Mnemonic phrase.
 
-<img src="https://www.synergynodes.com/images/acrechain-mainnet-keplr/Acrechain-Mainnet-Keplr-07-min6.png" width="350">
+<img src="https://www.synergynodes.com/images/acrechain-mainnet-keplr/Acrechain-Mainnet-Keplr-07-min7.png" width="350">
