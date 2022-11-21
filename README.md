@@ -17,7 +17,7 @@ This will open ``DevTools`` window.
 ```
 window.keplr.experimentalSuggestChain({
   	"chainId": "acre_9052-1",
-  	"chainName": "Arable Mainnet",
+  	"chainName": "Acrechain Mainnet",
     "rpc": "https://rpc-acre.synergynodes.com",
     "rest": "https://lcd-acre.synergynodes.com",
   	"bip44": {
@@ -85,7 +85,7 @@ window.keplr.experimentalSuggestChain({
 
 ## 7) Close Keplr Wallet and re-open it.
 
-## 8) Click on the networks present at top of Keplr Wallet, scroll down, and select ``Arable Testnet``.
+## 8) Click on the networks present at top of Keplr Wallet, scroll down, and select ``Acrechain Mainnet``.
 
 <img src="https://www.synergynodes.com/images/acrechain-mainnet-keplr/Acrechain-Mainnet-Keplr-06-min.png" width="350">
 
