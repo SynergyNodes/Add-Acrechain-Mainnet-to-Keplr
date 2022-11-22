@@ -60,9 +60,9 @@ window.keplr.experimentalSuggestChain({
   		"coinGeckoId": "unknown"
   	},
   	"gasPriceStep": {
-  		"low": 0.01,
-  		"average": 0.025,
-  		"high": 0.03
+  		"low": 10000000000,
+  		"average": 20000000000,
+  		"high": 30000000000
   	},
   	"features": [
   		"ibc-transfer",
