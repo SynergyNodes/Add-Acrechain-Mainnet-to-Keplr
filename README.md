@@ -23,9 +23,9 @@ window.keplr.experimentalSuggestChain({
     "rpc": "https://rpc-acre.synergynodes.com",
     "rest": "https://lcd-acre.synergynodes.com",
   	"bip44": {
-  		"coinType": "60"
+  		"coinType": 60
   	},
-  	"coinType": "60",
+  	"coinType": 60,
   	"bech32Config": {
   		"bech32PrefixAccAddr": "acre",
   		"bech32PrefixAccPub": "acrepub",
@@ -41,7 +41,7 @@ window.keplr.experimentalSuggestChain({
   		{
   			"coinDenom": "acre",
   			"coinMinimalDenom": "aacre",
-  			"coinDecimals": "18",
+  			"coinDecimals": 18,
   			"coinGeckoId": "arable-protocol"
   		}
   	],
@@ -49,14 +49,14 @@ window.keplr.experimentalSuggestChain({
   		{
   			"coinDenom": "acre",
   			"coinMinimalDenom": "aacre",
-  			"coinDecimals": "18",
+  			"coinDecimals": 18,
   			"coinGeckoId": "arable-protocol"
   		}
   	],
   	"stakeCurrency": {
   		"coinDenom": "acre",
   		"coinMinimalDenom": "aacre",
-  		"coinDecimals": "18",
+  		"coinDecimals": 18,
   		"coinGeckoId": "arable-protocol"
   	},
   	"gasPriceStep": {
